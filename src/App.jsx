@@ -121,7 +121,7 @@ function App() {
               </div>
             </section>
           )}
-          <section>Product List</section>
+          <section></section>
         </div>
       </main>
     </>
